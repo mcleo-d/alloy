@@ -19,11 +19,11 @@ const siteConfig = {
   tagline: 'Language and visual platform to generate models for the financial services industry', //THIS CHANGES THE TITLE TAGS FOR THE WEBSITE (LOOK IN BROWSER TAB AT TOP)
   cname: 'alloy.finos.org',
   gaTrackingId: 'UA-89349362-7',
-  url: 'https://alloy.finos.org/',
+  url: 'https://mcleo-d.github.io',
   baseUrl: '/',
   // For publishing to GitHub pages
   projectName: 'alloy',
-  organizationName: 'finos',
+  organizationName: 'mcleo-d',
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { doc: 'getting-started/studio', label: 'Docs' }
